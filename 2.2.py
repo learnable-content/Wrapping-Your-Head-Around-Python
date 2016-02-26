@@ -2,7 +2,7 @@ customer = "John Doe"
 pickupLocation = "350 5th Ave"
 package1 = customer + pickupLocation
 
-#if "350 5th Ave" in package:
+#if "350 5th Ave" in package1:
  #   print("Customer Found")
     
 #what if there are several customers
