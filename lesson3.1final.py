@@ -7,11 +7,11 @@ def add(n1, n2):
     
 add(1,3)
 
-myfunc = lambda n1, n2: n1 + n2
-print(myfunc(1,3))
+myfuncresult = lambda n1, n2: n1 + n2
+print(myfuncresult(1,3))
 
-myfunc2 = map(lambda x: x*2, [1,4,20])
-print(list(myfunc2))
+myfunc2result = map(lambda x: x*2, [1,4,20])
+print(list(myfunc2result))
 
 customer1 = "John Doe"
 pickupLocation1 = "350 5th Ave"
