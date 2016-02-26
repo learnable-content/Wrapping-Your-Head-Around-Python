@@ -8,7 +8,7 @@ package2 = customer2 + pickupLocation2
 
 customer3 = "Joe Daniels"
 pickupLocation3 = "11 1st Ave"
-package4 = customer3 + pickupLocation3
+package3 = customer3 + pickupLocation3
 
 #2.3f
 
