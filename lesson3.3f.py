@@ -14,7 +14,7 @@ customerList = [customer1, customer2, customer3]
 
 #start 3.4f 
 
-#global but used in function
+#To review: global but used in function. This variable will be switched into calculateFee(miles) line 20 for the .5 constant.
 #chargePerMile = .5
 
 def calculateFee(miles):
