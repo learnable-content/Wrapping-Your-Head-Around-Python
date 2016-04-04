@@ -39,13 +39,13 @@ def calculateFee(miles, initialRate = 2.50):
     
 print(calculateFee(10, 3))
 
-def caculateMultiCustomerRate(*miles):
+def calculateMultiCustomerRate(*miles):
     rates = []
     for m in miles:
         rates.append(m * 2.50)
     return rates
     
-rates = caculateMultiCustomerRate(10,20,30)
+rates = calculateMultiCustomerRate(10,20,30)
 i = 1
 for r in rates:
     print("customer %d = $%d" % (i, r))
