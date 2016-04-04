@@ -4,11 +4,12 @@ packages = {}
 
 newStr = fileContent.split("|", 3)
 print(newStr)
-i = 0
+
 for s in newStr:
-    (a,b) = newStr[i].replace("\n", "").split(";", 1)
+    (a,b) = s.replace("\n", "").split(";", 1)
     print(a + " == " + b)
     packages[a] = b
-    i = i + 1
     
 print(packages)
+print(packages.keys())
+print(packages.values())
