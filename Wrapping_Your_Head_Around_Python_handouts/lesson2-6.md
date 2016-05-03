@@ -1,4 +1,4 @@
-![](Wrapping_Your_Head_Around_Python_handouts/headings/2.6.png)
+![](headings/2.6.png)
 
 # How To Do File I/O in Python
 
