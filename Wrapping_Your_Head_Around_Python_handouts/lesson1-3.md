@@ -1,4 +1,4 @@
-![](Wrapping_Your_Head_Around_Python_handouts/headings/1.3.png)
+![](headings/1.3.png)
 
 # Setting Python Up on the Mac
 
