@@ -1,4 +1,4 @@
-![](Wrapping_Your_Head_Around_Python_handouts/headings/1.2.png)
+![](headings/1.2.png)
 
 # What's the Difference in Python Version 2 vs 3
 
