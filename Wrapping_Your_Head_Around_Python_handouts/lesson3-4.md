@@ -1,4 +1,4 @@
-![](Wrapping_Your_Head_Around_Python_handouts/headings/3.4.png)
+![](headings/3.4.png)
 
 # Classes
 
