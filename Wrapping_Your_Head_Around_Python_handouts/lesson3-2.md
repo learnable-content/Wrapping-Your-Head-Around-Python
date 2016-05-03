@@ -1,4 +1,4 @@
-![](Wrapping_Your_Head_Around_Python_handouts/headings/3.2.png)
+![](headings/3.2.png)
 
 # Introduction
 
