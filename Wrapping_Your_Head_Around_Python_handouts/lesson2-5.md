@@ -1,4 +1,4 @@
-![](Wrapping_Your_Head_Around_Python_handouts/headings/2.5.png)
+![](headings/2.5.png)
 
 # 'for' Loops
 
