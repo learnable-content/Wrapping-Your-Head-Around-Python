@@ -1,4 +1,4 @@
-![](Wrapping_Your_Head_Around_Python_handouts/headings/2.4.png)
+![](headings/2.4.png)
 
 # 'while' Loops in Python
 
