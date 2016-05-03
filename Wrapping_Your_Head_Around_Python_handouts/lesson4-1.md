@@ -1,4 +1,4 @@
-![](Wrapping_Your_Head_Around_Python_handouts/headings/4.1.png)
+![](headings/4.1.png)
 
 # Creating a Try Except finally Block
 
